@@ -1,0 +1,11 @@
+.bgOwn {
+    background-color: #dadada;
+    border: none;
+}
+
+button {
+    background-color: #008b7c;
+    color: white;
+    border: solid #008b7c;
+    border-radius: 15px;
+}
